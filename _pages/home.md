@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Fenghua Wu - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "Fenghua Wu at UESTC &rarr; UCF."
 sitemap: false
 permalink: /
 ---
